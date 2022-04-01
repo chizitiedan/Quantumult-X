@@ -1,0 +1,2 @@
+hostname = api.meiyan.com
+^https://api.meiyan.com/vip/user_info url script-response-body https://raw.githubusercontent.com/zy-xiaoao/js/main/meiyan.js
